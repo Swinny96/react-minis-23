@@ -74,3 +74,4 @@ module.exports = {
   icon: "src/images/icon.png", //  Favicon Path
 }
 ```
+# react-minis-23
